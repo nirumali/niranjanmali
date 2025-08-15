@@ -5,7 +5,9 @@
 
 ### 🚀 About Me  
 🎓 **BTech in Computer Science ** @ KIT College of Engineering kolhapur 
+
 🎓 **Diploma in Computer Engineering** from Goverment Polytecnic Miraj
+
 ✍️ Writing tech articles on [Medium](https://medium.com/@yourusername)  
 💡 Passionate about ** Web Development,java(advance java)**  
 
