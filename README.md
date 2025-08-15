@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niranjan Mali/h1>
+<h1 align="center">Hi 👋, I'm Niranjan Mali</h1>
 <h3 align="center">Driven by learning, fueled by innovation</h3>
 
 ---
@@ -10,7 +10,7 @@
 
 ✍️ Writing tech articles on [Medium](https://medium.com/@yourusername)  
 
-💡 Passionate about Web Development,java(advance java) 
+💡 Passionate about Web Development, java(advance java) 
 
 
 ---
